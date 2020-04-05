@@ -1,0 +1,19 @@
+PATH
+  remote: components
+  specs:
+    nmaxgem (1.0.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    nmax (0.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  nmax
+  nmaxgem!
+
+BUNDLED WITH
+   2.1.4
